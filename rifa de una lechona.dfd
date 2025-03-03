@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+102
+'participa en una gran rifa de una lechona escribe un numero del 1 al 30 y sabras si eres el ganador '
+5
+1
+1
+n
+7
+0
+1
+4
+n=25
+4
+1
+13
+'PERDISTE :('
+13
+4
+1
+21
+'FELICITACIONES!!!  '
+4
+1
+84
+'haz ganado una lechona por favor digita tu nombre para saber el nombre del ganador'
+5
+1
+3
+nom
+4
+1
+45
+'gracias por participar en esta rifa: ', nom 
+13
+1
