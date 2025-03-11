@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+'ingresa el valor de tus 3 productos y te descontaremos el 5% '
+5
+1
+11
+pr1,pr2,pr3
+6
+3
+4
+suma
+11
+pr1+pr2+pr3
+9
+descuento
+9
+suma*0.05
+1
+t
+14
+suma-descuento
+4
+1
+114
+' el valor de tu compra es: ',suma,' y aplicandole el 5% de descuento queda con el siguiente precio: ',t, ' pesos'
+1

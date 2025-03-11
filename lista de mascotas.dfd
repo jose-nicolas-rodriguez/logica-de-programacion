@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+86
+'necesitamos el nombre de 3 perros y 3 razas diferentes para crear una lista de ellos'
+5
+1
+8
+n1,n2,n3
+4
+1
+31
+'escribe la raza de los perros'
+5
+1
+8
+r1,r2,r3
+4
+1
+37
+'te presentamos tu lista de mascotas'
+4
+1
+50
+'1. ',' nombre : ',n1,' ---',' y su raza es : ',r1
+4
+1
+50
+'2. ',' nombre : ',n2,' ---',' y su raza es : ',r2
+4
+1
+50
+'3. ',' nombre : ',n3,' ---',' y su raza es : ',r3
+4
+1
+26
+'gracias por tu aporte :}'
+1

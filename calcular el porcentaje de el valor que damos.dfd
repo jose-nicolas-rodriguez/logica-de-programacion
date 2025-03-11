@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'escribe tu nombre'
+5
+1
+6
+nombre
+4
+1
+64
+'digita el porcentaje del descuento que aplicaremos a tu compra'
+5
+1
+4
+vdes
+4
+1
+30
+'digita el valor de la compra'
+5
+1
+7
+vcompra
+6
+3
+9
+vdescuent
+8
+vdes/100
+9
+descuento
+17
+vcompra*vdescuent
+5
+total
+17
+vcompra-descuento
+4
+1
+49
+'hola señor ', nombre,' usted debe pagar ', total
+1

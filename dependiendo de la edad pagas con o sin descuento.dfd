@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'señor usuario digite su edad'
+5
+1
+4
+edad
+4
+1
+30
+'digita el valor de su compra'
+5
+1
+7
+vcompra
+7
+0
+1
+7
+edad>50
+4
+1
+50
+' pagas ', vcompra,'  por no ser mayor de 50 años'
+13
+6
+2
+10
+vdescuento
+12
+vcompra*0.10
+6
+valort
+18
+vcompra-vdescuento
+4
+1
+53
+'tienes un 10% de descuento por ser mayor de 50 años'
+4
+1
+15
+'pagas ',valort
+13
+1

@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'digita el valor de la compra'
+5
+1
+2
+vc
+7
+0
+1
+10
+vc> 180000
+4
+1
+33
+'se van a cobrar 20.000 de envio'
+6
+1
+5
+valor
+8
+vc+20000
+4
+1
+26
+'tienes que pagar ', valor
+13
+4
+1
+21
+'no se cobrara envio'
+4
+1
+24
+' tienes que pagar ', vc
+13
+1

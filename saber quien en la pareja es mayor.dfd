@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'escribe el nombre del hombre'
+5
+1
+2
+n1
+4
+1
+31
+'escribe el nombre de la mujer'
+5
+1
+2
+n2
+4
+1
+60
+'digita primero la edad de el hombre y luego la de la mujer'
+5
+1
+5
+e1,e2
+7
+0
+1
+5
+e1>e2
+4
+1
+24
+n2, ' es mayor que ', n1
+13
+4
+1
+24
+n1, ' es mayor que ', n2
+13
+1

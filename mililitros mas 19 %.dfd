@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+57
+'señor usuario digite la cuantos mililitros va a comprar'
+5
+1
+8
+cantidad
+6
+3
+4
+suma
+13
+cantidad*4500
+3
+iva
+9
+suma*0.19
+5
+total
+8
+suma+iva
+4
+1
+62
+'señor usuario el valor de los mililitros pedidos es  ', total
+1
